@@ -1,0 +1,15 @@
+C:\Users\lg\Desktop\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.exe.config
+C:\Users\lg\Desktop\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.exe
+C:\Users\lg\Desktop\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.pdb
+C:\Users\lg\Desktop\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\lg\Desktop\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.exe
+C:\Users\lg\Desktop\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.pdb
+C:\Users\lg\Desktop\Project Based Learning I\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.exe.config
+C:\Users\lg\Desktop\Project Based Learning I\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.exe
+C:\Users\lg\Desktop\Project Based Learning I\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.pdb
+C:\Users\lg\Desktop\Project Based Learning I\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.exe
+C:\Users\lg\Desktop\Project Based Learning I\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.pdb
+C:\Users\lg\Desktop\Project Based Learning I\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.csprojResolveAssemblyReference.cache
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 1 - TIC TAC TOE\project1_tictactoe\project1_tictactoe\bin\Debug\project1_tictactoe.exe.config
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 1 - TIC TAC TOE\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.exe
+C:\Users\lg\Desktop\Project Based Learning I\PROJECT 1 - TIC TAC TOE\project1_tictactoe\project1_tictactoe\obj\Debug\project1_tictactoe.pdb
